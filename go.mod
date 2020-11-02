@@ -1,4 +1,4 @@
-module gitlab.com/ddng/goscrappy
+module github.com/BillotP/gorenty
 
 go 1.15
 

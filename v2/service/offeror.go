@@ -5,7 +5,7 @@ import (
 	"errors"
 
 	driver "github.com/arangodb/go-driver"
-	"gitlab.com/ddng/goscrappy/v2/models"
+	"github.com/BillotP/gorenty/v2/models"
 )
 
 // Create save a new offeror in db including nested struct

@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"gitlab.com/ddng/goscrappy"
+	"github.com/BillotP/gorenty"
 )
 
 // TGBASEURL is the base endpoint to get and set bot updates

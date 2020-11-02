@@ -6,7 +6,7 @@ import (
 	"strings"
 	"text/template"
 
-	"gitlab.com/ddng/goscrappy/v2/models"
+	"github.com/BillotP/gorenty/v2/models"
 )
 
 // FillTemplate return a template string filled with the required variables

@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"gitlab.com/ddng/goscrappy"
+	"github.com/BillotP/gorenty"
 
 	"github.com/dgryski/trifles/uuid"
 )

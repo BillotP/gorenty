@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"gitlab.com/ddng/goscrappy"
+	"github.com/BillotP/gorenty"
 )
 
 /////////////////////

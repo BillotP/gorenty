@@ -11,7 +11,7 @@ import (
 	"strings"
 
 	"github.com/aws/aws-lambda-go/events"
-	"gitlab.com/ddng/goscrappy"
+	"github.com/BillotP/gorenty"
 )
 
 var (

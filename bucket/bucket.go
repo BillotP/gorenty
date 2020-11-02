@@ -5,7 +5,7 @@ import (
 	"strconv"
 
 	"github.com/minio/minio-go"
-	"gitlab.com/ddng/goscrappy"
+	"github.com/BillotP/gorenty"
 )
 
 // Config is the needed param to get minio client

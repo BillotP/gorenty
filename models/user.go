@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	"github.com/google/uuid"
-	"gitlab.com/ddng/goscrappy"
+	"github.com/BillotP/gorenty"
 	"gorm.io/gorm"
 )
 

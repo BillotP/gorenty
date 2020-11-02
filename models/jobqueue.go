@@ -11,7 +11,7 @@ import (
 
 	"github.com/go-redis/redis/v8"
 	"github.com/google/uuid"
-	"gitlab.com/ddng/goscrappy"
+	"github.com/BillotP/gorenty"
 )
 
 // JobStatus represent a queued job status

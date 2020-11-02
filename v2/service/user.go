@@ -6,8 +6,8 @@ import (
 	"fmt"
 
 	driver "github.com/arangodb/go-driver"
-	"gitlab.com/ddng/goscrappy"
-	"gitlab.com/ddng/goscrappy/v2/models"
+	"github.com/BillotP/gorenty"
+	"github.com/BillotP/gorenty/v2/models"
 	"golang.org/x/crypto/bcrypt"
 )
 
